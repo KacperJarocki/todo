@@ -4,3 +4,6 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+chrono = "0.4.38"
+chrono-humanize = "0.2.3"
+clap = "4.5.15"
